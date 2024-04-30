@@ -6,7 +6,7 @@ public class RecorrerCadena {
 		
 		String cadena = "Hola mundo";
 
-		for (int i = 0; i < cadena.length(); i++) {
+		for (int i = 0; i < cadea.length(); i++) {
 		    char caracter = cadena.charAt(i);
 		    System.out.println(caracter);
 		}
